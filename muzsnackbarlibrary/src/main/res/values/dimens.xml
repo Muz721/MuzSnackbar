@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="muz_snackbar_icon_padding_end">15dp</dimen>
+</resources>
